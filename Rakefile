@@ -5,7 +5,8 @@ require "bundler/setup"
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "user@domain.com"
 document_root  = "~/website.com/"
-deploy_default = "rsync"
+deploy_default = "s3"
+s3_bucket = "www.verypublicrecords.com"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
@@ -100,6 +101,11 @@ desc "Deploy website via rsync"
 task :rsync do
   puts "## Deploying website via Rsync"
   ok_failed system("rsync -avz --delete #{public_dir}/ #{ssh_user}:#{document_root}")
+end
+
+desc "Deploy to S3 using s3cmd"
+task :s3 do
+  sh "s3cmd -Pr put #{public_dir}/ s3://#{s3_bucket}"
 end
 
 desc "deploy public directory to github pages"

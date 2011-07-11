@@ -4,11 +4,11 @@ destination: public
 code_dir: downloads/code
 port: 4000
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://www.verypublicrecords.com
+title: Very Public Records
 permalink: /blog/:year/:month/:day/:title
-subtitle: A blogging framework for hackers.
-author: Your Name
+subtitle: because if it's not online, it's not public
+author: Patrick White
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
@@ -27,7 +27,7 @@ simple_search: http://google.com/search
 email:
 
 # Twitter
-twitter_user:
+twitter_user: p6trick
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -43,7 +43,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: verypublicrecords
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-22089236-1

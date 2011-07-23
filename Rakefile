@@ -94,7 +94,7 @@ end
 ##############
 
 desc "Default deploy task"
-task :deploy => "#{deploy_default}" do
+task :deploy => [:generate, "#{deploy_default}"] do
 end
 
 desc "Deploy website via rsync"

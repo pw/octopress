@@ -3,6 +3,6 @@ title: Seravia
 date: 2011-06-04
 layout: post
 categories: []
-permalink: seravia
+permalink: /seravia
 ---
 [Seravia](http://www.seravia.com/) is putting a [variety of public business records](http://www.seravia.com/about/#data) online. The provide a very nice interface for searching these records, and the records themselves are indexable by Google, which is great. Of course, they're not publishing the records in their original bulk form. (Why would they? They're a business and don't want to make things any easier for their competitors.) So the bulk records remain locked behind government pay-walls.

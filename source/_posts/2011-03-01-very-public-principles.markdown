@@ -3,7 +3,7 @@ title: Very Public Principles
 date: 2011-03-01 13:29
 layout: post
 categories: []
-permalink: pages/very-public-principles
+permalink: /pages/very-public-principles
 ---
 Very Public Records exists to improve access to public records and operates in accordance with the Very Public Principles:
 

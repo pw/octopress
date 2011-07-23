@@ -2,8 +2,8 @@
 title: SEO Advice for a Photography Studio
 date: 2011-03-15
 layout: post
-categories: []
-permalink: seo-advice-photography-studio
+categories: [work]
+permalink: /seo-advice-photography-studio
 ---
 Over the last nine months or so, I've been trying to learn search engine optimization (SEO). I've had a few success, but so far the tactics have been fairly domain-specific. Below is my advice to a hypothetical local photography studio that is looking to improve their rankings. I'm assuming that they've already done basic [on-page optimization](http://www.seomoz.org/blog/perfecting-keyword-targeting-on-page-optimization) (good title-tags, etc) and now need to move on to getting links: 
 

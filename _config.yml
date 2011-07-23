@@ -18,7 +18,7 @@ markdown: rdiscount
 pygments: true
 paginate: 10
 recent_posts: 5
-category_dir: blog/categories
+category_dir: /blog/categories
 simple_search: http://google.com/search
 
 # Optional configurations

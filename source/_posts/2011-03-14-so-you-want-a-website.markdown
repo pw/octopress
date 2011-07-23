@@ -2,8 +2,8 @@
 title: So You Want a Website...
 date: 2011-03-14
 layout: post
-categories: []
-permalink: so-you-want-a-website
+categories: [work]
+permalink: /so-you-want-a-website
 ---
 If want a website and don't already have one, the **absolute worst** thing you can do is hire someone to build you a website.
 

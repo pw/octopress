@@ -3,7 +3,7 @@ title: The NOAA Diving Manual - Free and in the Public Domain
 date: 2011-06-26
 layout: post
 categories: []
-permalink: the-noaa-diving-manual-free-and-in-the-public
+permalink: /the-noaa-diving-manual-free-and-in-the-public
 ---
 **Download the entire manual: [zip file (~96MB)](http://s3.amazonaws.com/pd_assets/noaa_dive_3-28-11.zip)**
 

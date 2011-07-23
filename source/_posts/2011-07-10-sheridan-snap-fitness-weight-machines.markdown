@@ -8,19 +8,19 @@ categories: []
 
 The Snap Fitness in Sheridan, WY has one of each of the following weight machines. All are [Cybex VR3](http://www.cybexintl.com/products/strength/vr3/default.aspx) machines:
 
-* Lat pull
-* Chest press
-* Overhead press
-* Fly/rear delt
-* Hip abduction/ad
-* Leg press
-* Seated leg curl
-* Arm curl
-* Arm extension
-* Back extension
-* Abdominal
-* Leg extension
-* Lateral raise
+* [Lat pull](http://www.cybexintl.com/products/strength/12130/intro.aspx)
+* [Chest press](http://www.cybexintl.com/products/strength/12000/intro.aspx)
+* [Overhead press](http://www.cybexintl.com/products/strength/12010/intro.aspx)
+* [Fly/rear delt](http://www.cybexintl.com/products/strength/12110/intro.aspx)
+* Hip [abduction](http://www.cybexintl.com/products/strength/12200/intro.aspx)/[adduction](http://www.cybexintl.com/products/strength/12210/intro.aspx) (combo machine, although the Cybex website only shows the separate machines)
+* [Leg press](http://www.cybexintl.com/products/strength/12040/intro.aspx)
+* [Seated leg curl](http://www.cybexintl.com/products/strength/12060/intro.aspx)
+* [Arm curl](http://www.cybexintl.com/products/strength/12070/intro.aspx)
+* [Arm extension](http://www.cybexintl.com/products/strength/12080/intro.aspx)
+* [Back extension](http://www.cybexintl.com/products/strength/12100/intro.aspx)
+* [Abdominal](http://www.cybexintl.com/products/strength/12090/intro.aspx)
+* [Leg extension](http://www.cybexintl.com/products/strength/12050/intro.aspx)
+* [Lateral raise](http://www.cybexintl.com/products/strength/12160/intro.aspx)
 
 Here the are the muscle groups worked by each machine (as given on the Cybex website):
 

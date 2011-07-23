@@ -3,7 +3,7 @@ title: James Maybe a Domainer?
 date: 2011-06-10
 layout: post
 categories: []
-permalink: james-maybe-an-domainer
+permalink: /james-maybe-an-domainer
 ---
 I was reading [this post](http://www.jamesmaybe.com/blog/2010/12/scrambled-brains-i-got-a-toasted-mind/) on [JamesMaybe.com](http://jamesmaybe.com/), a pseudonymous (it seems) art blog, and came across this: 
 

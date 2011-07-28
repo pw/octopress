@@ -4,10 +4,10 @@ destination: public
 code_dir: downloads/code
 port: 4000
 
-url: http://www.verypublicrecords.com
-title: Very Public Records
+url: http://www.pwhite.org
+title: Patrick White
 permalink: /blog/:year/:month/:day/:title
-subtitle: because if it's not online, it's not public
+subtitle: 
 author: Patrick White
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
@@ -43,7 +43,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: verypublicrecords
+disqus_short_name: pwhiteblog
 
 # Google Analytics
-google_analytics_tracking_id: UA-22089236-1
+google_analytics_tracking_id: UA-22089236-3
